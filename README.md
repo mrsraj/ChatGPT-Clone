@@ -8,6 +8,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 - 🔥 Core Features
+
+- To use it you will have to create a OPENAI Keys and set inot .env file. Create a .env file in root of project.
 - 
 1️⃣ Chat System
 
